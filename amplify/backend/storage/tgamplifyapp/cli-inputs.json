@@ -1,0 +1,14 @@
+{
+  "resourceName": "tgamplifyapp",
+  "policyUUID": "453e1b9e",
+  "bucketName": "tgamplifyappbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
